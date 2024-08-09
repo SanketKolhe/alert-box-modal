@@ -18,7 +18,7 @@ A customizable repository for creating responsive and visually appealing popup m
    ```
 2. **Open the Project**: Navigate to the project directory and open `index.html` in your browser.
 3. **Customization**: Modify the HTML, and CSS files as needed.
-4. **Integration**: Add the profile cards to your web application by linking the necessary files.
+4. **Integration**: Add the modal to your web application by linking the necessary files.
 
 ## Demo
 
